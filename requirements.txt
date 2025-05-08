@@ -1,0 +1,22 @@
+
+# opencv-python 
+# numpy 
+# matplotlib 
+# scikit-learn 
+# torch 
+# torchvision 
+# pillow 
+# colorthief 
+# webcolors 
+# extcolors 
+# colormath
+
+torch>=1.10.0
+torchvision>=0.11.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+pillow>=9.0.0
+colorthief>=0.2.1
+colormath>=3.0.0
